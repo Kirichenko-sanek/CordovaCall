@@ -46,7 +46,7 @@
 
 Add the CordovaCall plugin to your Cordova project
 
-`cordova plugin add cordova-call`
+`cordova plugin add https://github.com/Kirichenko-sanek/CordovaCall.git`
 
 # Examples
 
